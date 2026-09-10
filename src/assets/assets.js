@@ -126,8 +126,8 @@ export const projects = [
       "A full-stack fitness platform built with a microservices architecture for managing users, activities, and personalized fitness recommendations.",
     image: nexoraImg,
     tech: ["React", "Spring Boot", "Microservices", "MongoDB", "PostgreSQL"],
-    demo: "YOUR_NEXORA_LINK",
-    code: "YOUR_GITHUB_LINK"
+    demo: "https://nexora-frontend-6b7p.onrender.com",
+    code: "https://github.com/Osama5099/nexora-fitness-platform"
   },
 
   {
@@ -136,8 +136,8 @@ export const projects = [
       "A responsive personal portfolio website showcasing my skills, projects, education, and experience as a Full Stack Developer.",
     image: portfolioImg,
     tech: ["React", "Tailwind CSS", "Framer Motion", "Vite"],
-    demo: "YOUR_PORTFOLIO_LINK",
-    code: "YOUR_GITHUB_LINK"
+    demo: "https://osama-portfolio-qhsj.onrender.com/",
+    code: "https://github.com/Osama5099/osama-portfolio"
   }
 ];
 
